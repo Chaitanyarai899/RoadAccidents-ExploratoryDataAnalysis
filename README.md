@@ -24,6 +24,7 @@ The aim of this project is to perform exploratory data analysis on road accident
 By conducting a comprehensive exploratory data analysis, this project aims to contribute to a better understanding of road accidents and facilitate evidence-based strategies for improving road safety.
 
 # Some Tableau dashboard screenshots: 
-![Alt text](image-3.png)
-![Alt text](image-2.png)
-![Alt text](image-1.png)
+![image-1](https://github.com/Chaitanyarai899/RoadAccidentsAnalysis/assets/95732261/88c9ab04-d9fd-4ed9-a923-77e7a60f366e)
+![image-2](https://github.com/Chaitanyarai899/RoadAccidentsAnalysis/assets/95732261/2729e2c2-dbfa-4f9e-8255-8aae6d753448)
+![image-3](https://github.com/Chaitanyarai899/RoadAccidentsAnalysis/assets/95732261/53c14c7e-5828-4cb9-9172-1844c6b376fd)
+
