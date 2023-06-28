@@ -7,9 +7,8 @@ This project focuses on conducting an exploratory data analysis (EDA) of road ac
 Road accidents pose a significant challenge to road safety and can have severe consequences. This project aims to analyze road accidents data to understand the underlying factors and patterns associated with these incidents. By conducting exploratory data analysis, we can identify trends, correlations, and potential risk factors that contribute to road accidents. This analysis can provide valuable insights for policymakers, traffic authorities, and stakeholders to improve road safety measures and reduce the occurrence of accidents.
 
 ## Technologies Used
-- Python libraries such as Pandas, Matplotlib etc has been used. 
-- Tableau dashboards with interactive maps for visualisation.
-
+- Python libraries such as Pandas, Matplotlib etc have been used with tableau dashbords for in depth visualization. Excel for some additional data cleaning and transformation.
+  
 ## Aim
 
 The aim of this project is to perform exploratory data analysis on road accidents data to achieve the following objectives:
@@ -24,7 +23,8 @@ The aim of this project is to perform exploratory data analysis on road accident
 By conducting a comprehensive exploratory data analysis, this project aims to contribute to a better understanding of road accidents and facilitate evidence-based strategies for improving road safety.
 
 # Some Tableau dashboard screenshots: 
-![image-1](https://github.com/Chaitanyarai899/RoadAccidentsAnalysis/assets/95732261/88c9ab04-d9fd-4ed9-a923-77e7a60f366e)
-![image-2](https://github.com/Chaitanyarai899/RoadAccidentsAnalysis/assets/95732261/2729e2c2-dbfa-4f9e-8255-8aae6d753448)
-![image-3](https://github.com/Chaitanyarai899/RoadAccidentsAnalysis/assets/95732261/53c14c7e-5828-4cb9-9172-1844c6b376fd)
+<img width="568" alt="image" src="https://github.com/Chaitanyarai899/RoadAccidents-ExploratoryDataAnalysis/assets/95732261/722d25e1-6bb9-4e81-a199-ffb24b3c3ac7">
+<img width="627" alt="image" src="https://github.com/Chaitanyarai899/RoadAccidents-ExploratoryDataAnalysis/assets/95732261/199496fb-04b8-4bc1-a772-681b7c46e05f">
+<img width="567" alt="image" src="https://github.com/Chaitanyarai899/RoadAccidents-ExploratoryDataAnalysis/assets/95732261/b0162d24-e9e2-4568-867f-8e8f81920b54">
+
 
