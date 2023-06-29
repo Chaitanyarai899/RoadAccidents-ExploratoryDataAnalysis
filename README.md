@@ -20,7 +20,7 @@ The aim of this project is to perform exploratory data analysis on road accident
 5. Discover any correlations or relationships between different variables and accident outcomes.
 6. Provide meaningful visualizations and insights that can be utilized for decision-making, policy formulation, and the implementation of effective road safety measures.
 
-By conducting a comprehensive exploratory data analysis, this project aims to contribute to a better understanding of road accidents and facilitate evidence-based strategies for improving road safety.
+By conducting a comprehensive exploratory data analysis, this project aims to contribute to a better understanding of road accidents and facilitate evidence-based strategies for improving road safety. The same project can be used for further analysis of new data from data.gov.com with addition of records in database.
 
 # Some Tableau dashboard screenshots: 
 <img width="568" alt="image" src="https://github.com/Chaitanyarai899/RoadAccidents-ExploratoryDataAnalysis/assets/95732261/722d25e1-6bb9-4e81-a199-ffb24b3c3ac7">
